@@ -22,7 +22,7 @@ Kafka Producer (Python)
         │
         ▼
   ┌─────────────┐
-  │    GOLD     │  Galaxy Schema: Facts + Dimensions 
+  │    GOLD     │  Star Schema: Facts + Dimensions → PowerBI via Thrift Server
   └─────────────┘
 
 
